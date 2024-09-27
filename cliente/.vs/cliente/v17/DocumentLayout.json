@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyecto_Sistemas_Operativos\\FicherosPruebaEntorno (1)\\Parte_1_ServidorSecuencial_1\\cliente\\",
+  "WorkspaceRootPath": "C:\\Users\\cferr\\Downloads\\Demo_Git\\Proyecto_Sistemas_Operativos-2\\Proyecto_Sistemas_Operativos\\cliente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|C:\\Proyecto_Sistemas_Operativos\\FicherosPruebaEntorno (1)\\Parte_1_ServidorSecuencial_1\\cliente\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\users\\cferr\\downloads\\demo_git\\proyecto_sistemas_operativos-2\\proyecto_sistemas_operativos\\cliente\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\proyecto_sistemas_operativos\\ficherospruebaentorno (1)\\parte_1_servidorsecuencial_1\\cliente\\windowsformsapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|C:\\Users\\cferr\\Downloads\\Demo_Git\\Proyecto_Sistemas_Operativos-2\\Proyecto_Sistemas_Operativos\\cliente\\windowsformsapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Proyecto_Sistemas_Operativos\\FicherosPruebaEntorno (1)\\Parte_1_ServidorSecuencial_1\\cliente\\WindowsFormsApplication1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cferr\\Downloads\\Demo_Git\\Proyecto_Sistemas_Operativos-2\\Proyecto_Sistemas_Operativos\\cliente\\WindowsFormsApplication1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
-              "ToolTip": "C:\\Proyecto_Sistemas_Operativos\\FicherosPruebaEntorno (1)\\Parte_1_ServidorSecuencial_1\\cliente\\WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\cferr\\Downloads\\Demo_Git\\Proyecto_Sistemas_Operativos-2\\Proyecto_Sistemas_Operativos\\cliente\\WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T17:43:34.475Z",
@@ -36,14 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Proyecto_Sistemas_Operativos\\FicherosPruebaEntorno (1)\\Parte_1_ServidorSecuencial_1\\cliente\\WindowsFormsApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cferr\\Downloads\\Demo_Git\\Proyecto_Sistemas_Operativos-2\\Proyecto_Sistemas_Operativos\\cliente\\WindowsFormsApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WindowsFormsApplication1\\Program.cs",
-              "ToolTip": "C:\\Proyecto_Sistemas_Operativos\\FicherosPruebaEntorno (1)\\Parte_1_ServidorSecuencial_1\\cliente\\WindowsFormsApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\cferr\\Downloads\\Demo_Git\\Proyecto_Sistemas_Operativos-2\\Proyecto_Sistemas_Operativos\\cliente\\WindowsFormsApplication1\\Program.cs",
               "RelativeToolTip": "WindowsFormsApplication1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T17:43:29.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T17:43:29.638Z"
             }
           ]
         }
